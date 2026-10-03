@@ -1,3 +1,5 @@
+// nxn matrix possible
+
 #include <stdio.h>
 
 int main(void) {
